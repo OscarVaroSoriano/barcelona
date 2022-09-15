@@ -2,4 +2,4 @@
 ## Dia en Parque de la Ciudadela y Barceloneta
 
 Este va a ser el recorrido de la excursion.
-[foto paint]
+![recorrido-dia-barceloneta](https://github.com/OscarVaroSoriano/barcelona/blob/main/fotos/dia-barceloneta.png?raw=true)
